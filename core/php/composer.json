@@ -1,0 +1,6 @@
+{
+    "require": {
+        "google/apiclient": "^2.4",
+        "spomky-labs/otphp": "^10.0"
+    }
+}
